@@ -1,4 +1,4 @@
-package me.ji5.tutorial;
+package me.ji5.exercise.start;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

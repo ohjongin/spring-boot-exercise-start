@@ -1,4 +1,4 @@
-package me.ji5.tutorial;
+package me.ji5.exercise.start;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

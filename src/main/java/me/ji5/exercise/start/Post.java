@@ -1,4 +1,4 @@
-package me.ji5.tutorial;
+package me.ji5.exercise.start;
 
 import java.util.Date;
 
